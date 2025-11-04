@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a web developer, s
 
 ## 🚀 Live Project
 
-🔗 **[View on GitHub](https://github.com/promohan/2025project)**  
+🔗 **[View on GitHub](("https://promohan.github.io/2025project/"))**  
 *(Visit the repository for source code, assets, and updates.)*
 
 ---
