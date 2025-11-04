@@ -1,25 +1,25 @@
 # 🌐 Personal Portfolio Website
 
 A modern, fully responsive **personal portfolio website** built using **HTML, CSS, and JavaScript**.  
-This project showcases my skills, projects, and experience as a web developer/designer, and serves as my online presence.
+This project showcases my skills, projects, and experience as a web developer, serving as my digital identity.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Project
 
-🔗 **[View Portfolio Live](https://your-portfolio-link.com)**  
-*(Replace the link above with your hosted site — e.g., GitHub Pages, Netlify, or Vercel.)*
+🔗 **[View on GitHub](https://github.com/promohan/2025project)**  
+*(Visit the repository for source code, assets, and updates.)*
 
 ---
 
 ## 🧩 Features
 
-✅ **Responsive Design** – Works smoothly on desktop, tablet, and mobile screens.  
-✅ **Clean & Modern UI** – Minimalist design with focus on readability and visuals.  
-✅ **Dynamic Navigation** – Smooth scrolling and interactive menu.  
-✅ **Project Showcase** – Dedicated section to highlight your best work.  
-✅ **About & Contact Sections** – Share your bio, resume, and ways to connect.  
-✅ **Reusable Components** – Well-structured HTML, CSS, and JavaScript for easy updates.
+✅ **Responsive Design** – Works seamlessly across all devices (desktop, tablet, and mobile).  
+✅ **Modern UI/UX** – Clean layout, easy navigation, and visually appealing design.  
+✅ **Interactive Elements** – JavaScript-driven animations and dynamic components.  
+✅ **Project Showcase** – Dedicated section to highlight your featured projects.  
+✅ **About & Contact Sections** – Share professional details and contact information.  
+✅ **Optimized for Performance** – Lightweight, fast-loading, and SEO-friendly.
 
 ---
 
@@ -27,10 +27,10 @@ This project showcases my skills, projects, and experience as a web developer/de
 
 | Technology | Description |
 |-------------|--------------|
-| **HTML5** | Semantic markup for structure and accessibility |
-| **CSS3** | Styling using Flexbox, Grid, and animations |
-| **JavaScript (ES6+)** | Interactive features and DOM manipulation |
-| **Responsive Design** | Built with media queries for all screen sizes |
+| **HTML5** | Semantic structure for better accessibility |
+| **CSS3** | Custom styling with Flexbox, Grid & transitions |
+| **JavaScript (ES6+)** | Adds interactivity and dynamic content |
+| **Responsive Design** | Adaptive layouts for all screen sizes |
 
 ---
 
